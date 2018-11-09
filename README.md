@@ -1,4 +1,4 @@
-## QC_MATH_390.4_SPRING_2018
+## Data Science in R
 Greg's Page for Math 390.4
 
 
